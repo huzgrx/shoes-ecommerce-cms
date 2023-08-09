@@ -2,7 +2,7 @@
 
 Shop made in Next.JS and Strapi containing products from https://nike.com
 
-Repository with Next.JS: https://github.com/kriziu/shoes-ecommerce
+Repository with Next.JS: https://github.com/huzgrx/shoes-ecommerce
 ## Features
 
 - Image optimization by NextJS Image and Cloudinary
@@ -72,4 +72,4 @@ It is configured to work with heroku using this guide: https://docs.strapi.io/de
 &nbsp;6. In settings enable email confirmation and paste link to redirect with your Next.JS url:
 ![settings-screenshot](https://i.imgur.com/3rlldtZ.png)
 
-&nbsp;7. Create some products and go to installation this repository: https://github.com/kriziu/shoes-ecommerce
+&nbsp;7. Create some products and go to installation this repository: https://github.com/huzgrx/shoes-ecommerce
